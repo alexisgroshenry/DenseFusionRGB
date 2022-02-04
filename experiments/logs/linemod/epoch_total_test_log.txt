@@ -1,0 +1,213 @@
+2022-01-01 23:22:49,386 : Test time 01h 06m 54s, Testing started
+2022-01-01 23:23:48,633 : Test time 01h 07m 53s Epoch 100 TEST FINISH Avg dis: 0.07723154917734526
+
+2022-01-02 00:30:22,725 : Test time 02h 14m 27s, Testing started
+2022-01-02 00:31:21,137 : Test time 02h 15m 25s Epoch 101 TEST FINISH Avg dis: 0.06964095414243474
+
+2022-01-02 01:37:33,224 : Test time 03h 21m 37s, Testing started
+2022-01-02 01:38:30,236 : Test time 03h 22m 35s Epoch 102 TEST FINISH Avg dis: 0.06744126728698677
+
+2022-01-02 02:44:16,335 : Test time 04h 28m 21s, Testing started
+2022-01-02 02:45:13,168 : Test time 04h 29m 17s Epoch 103 TEST FINISH Avg dis: 0.06588529159514087
+
+2022-01-02 03:50:37,243 : Test time 05h 34m 42s, Testing started
+2022-01-02 03:51:33,659 : Test time 05h 35m 38s Epoch 104 TEST FINISH Avg dis: 0.06515455152839422
+
+2022-01-02 04:57:31,068 : Test time 06h 41m 35s, Testing started
+2022-01-02 04:58:27,143 : Test time 06h 42m 31s Epoch 105 TEST FINISH Avg dis: 0.0631678506712154
+
+2022-01-02 06:04:32,174 : Test time 07h 48m 36s, Testing started
+2022-01-02 06:05:29,333 : Test time 07h 49m 34s Epoch 106 TEST FINISH Avg dis: 0.06344366026918313
+
+2022-01-02 07:11:29,625 : Test time 08h 55m 34s, Testing started
+2022-01-02 07:12:26,779 : Test time 08h 56m 31s Epoch 107 TEST FINISH Avg dis: 0.06159068176319563
+
+2022-01-02 08:18:08,107 : Test time 10h 02m 12s, Testing started
+2022-01-02 08:19:03,624 : Test time 10h 03m 08s Epoch 108 TEST FINISH Avg dis: 0.06090419706595134
+
+2022-01-02 09:25:03,957 : Test time 11h 09m 08s, Testing started
+2022-01-02 09:26:01,772 : Test time 11h 10m 06s Epoch 109 TEST FINISH Avg dis: 0.06080375486090713
+
+2022-01-02 10:31:22,433 : Test time 12h 15m 27s, Testing started
+2022-01-02 10:32:19,143 : Test time 12h 16m 23s Epoch 110 TEST FINISH Avg dis: 0.06016105518716833
+
+2022-01-02 11:38:38,630 : Test time 13h 22m 43s, Testing started
+2022-01-02 11:39:36,113 : Test time 13h 23m 40s Epoch 111 TEST FINISH Avg dis: 0.05958939746382523
+
+2022-01-02 12:46:02,614 : Test time 14h 30m 07s, Testing started
+2022-01-02 12:47:01,147 : Test time 14h 31m 05s Epoch 112 TEST FINISH Avg dis: 0.059465047951701766
+
+2022-01-02 13:53:16,007 : Test time 15h 37m 20s, Testing started
+2022-01-02 13:54:14,258 : Test time 15h 38m 19s Epoch 113 TEST FINISH Avg dis: 0.05963533980310783
+
+2022-01-02 14:59:19,635 : Test time 16h 43m 24s, Testing started
+2022-01-02 15:00:15,280 : Test time 16h 44m 20s Epoch 114 TEST FINISH Avg dis: 0.05832433943019415
+
+2022-01-02 16:05:51,897 : Test time 17h 49m 56s, Testing started
+2022-01-02 16:06:48,480 : Test time 17h 50m 53s Epoch 115 TEST FINISH Avg dis: 0.058447232990944634
+
+2022-01-02 17:12:40,202 : Test time 18h 56m 44s, Testing started
+2022-01-02 17:13:37,604 : Test time 18h 57m 42s Epoch 116 TEST FINISH Avg dis: 0.057560244808180096
+
+2022-01-02 18:19:30,717 : Test time 20h 03m 35s, Testing started
+2022-01-02 18:20:27,229 : Test time 20h 04m 32s Epoch 117 TEST FINISH Avg dis: 0.05889205461303507
+
+2022-01-02 19:25:50,617 : Test time 21h 09m 55s, Testing started
+2022-01-02 19:26:46,756 : Test time 21h 10m 51s Epoch 118 TEST FINISH Avg dis: 0.057973766620927875
+
+2022-01-02 20:32:44,610 : Test time 22h 16m 49s, Testing started
+2022-01-02 20:33:42,641 : Test time 22h 17m 47s Epoch 119 TEST FINISH Avg dis: 0.05824082941411868
+
+2022-01-02 21:40:11,068 : Test time 23h 24m 15s, Testing started
+2022-01-02 21:41:08,889 : Test time 23h 25m 13s Epoch 120 TEST FINISH Avg dis: 0.0578156445037405
+
+2022-01-02 22:47:49,880 : Test time 00h 31m 54s, Testing started
+2022-01-02 22:48:48,268 : Test time 00h 32m 53s Epoch 121 TEST FINISH Avg dis: 0.05681938040644565
+
+2022-01-02 23:55:09,235 : Test time 01h 39m 14s, Testing started
+2022-01-02 23:56:06,118 : Test time 01h 40m 10s Epoch 122 TEST FINISH Avg dis: 0.05708700968671554
+
+2022-01-03 01:02:52,792 : Test time 02h 46m 57s, Testing started
+2022-01-03 01:03:50,159 : Test time 02h 47m 54s Epoch 123 TEST FINISH Avg dis: 0.05667536380802411
+
+2022-01-03 02:09:32,440 : Test time 03h 53m 37s, Testing started
+2022-01-03 02:10:30,073 : Test time 03h 54m 34s Epoch 124 TEST FINISH Avg dis: 0.057358460682638474
+
+2022-01-03 03:17:25,127 : Test time 05h 01m 29s, Testing started
+2022-01-03 03:18:22,927 : Test time 05h 02m 27s Epoch 125 TEST FINISH Avg dis: 0.05621515634571332
+
+2022-01-03 04:24:35,694 : Test time 06h 08m 40s, Testing started
+2022-01-03 04:25:33,555 : Test time 06h 09m 38s Epoch 126 TEST FINISH Avg dis: 0.056769496916620574
+
+2022-01-03 05:32:26,725 : Test time 07h 16m 31s, Testing started
+2022-01-03 05:33:25,799 : Test time 07h 17m 30s Epoch 127 TEST FINISH Avg dis: 0.0563659447256869
+
+2022-01-03 06:40:02,442 : Test time 08h 24m 07s, Testing started
+2022-01-03 06:41:01,088 : Test time 08h 25m 05s Epoch 128 TEST FINISH Avg dis: 0.05608837366824723
+
+2022-01-03 07:47:15,721 : Test time 09h 31m 20s, Testing started
+2022-01-03 07:48:12,271 : Test time 09h 32m 17s Epoch 129 TEST FINISH Avg dis: 0.055999312058550625
+
+2022-01-03 08:53:51,932 : Test time 10h 37m 56s, Testing started
+2022-01-03 08:54:50,571 : Test time 10h 38m 55s Epoch 130 TEST FINISH Avg dis: 0.05585309494280165
+
+2022-01-03 10:00:51,063 : Test time 11h 44m 55s, Testing started
+2022-01-03 10:01:46,797 : Test time 11h 45m 51s Epoch 131 TEST FINISH Avg dis: 0.05688535930347541
+
+2022-01-03 11:07:50,162 : Test time 12h 51m 54s, Testing started
+2022-01-03 11:08:48,433 : Test time 12h 52m 53s Epoch 132 TEST FINISH Avg dis: 0.05624186064214995
+
+2022-01-03 12:15:26,733 : Test time 13h 59m 31s, Testing started
+2022-01-03 12:16:23,985 : Test time 14h 00m 28s Epoch 133 TEST FINISH Avg dis: 0.05566469691123585
+
+2022-01-03 13:22:26,999 : Test time 15h 06m 31s, Testing started
+2022-01-03 13:23:23,528 : Test time 15h 07m 28s Epoch 134 TEST FINISH Avg dis: 0.05615970323741529
+
+2022-01-03 14:29:16,304 : Test time 16h 13m 21s, Testing started
+2022-01-03 14:30:14,409 : Test time 16h 14m 19s Epoch 135 TEST FINISH Avg dis: 0.055561835435074494
+
+2022-01-03 15:36:17,769 : Test time 17h 20m 22s, Testing started
+2022-01-03 15:37:14,585 : Test time 17h 21m 19s Epoch 136 TEST FINISH Avg dis: 0.055932432427562725
+
+2022-01-03 16:43:35,362 : Test time 18h 27m 40s, Testing started
+2022-01-03 16:44:31,928 : Test time 18h 28m 36s Epoch 137 TEST FINISH Avg dis: 0.055255642917731114
+
+2022-01-03 17:49:49,898 : Test time 19h 33m 54s, Testing started
+2022-01-03 17:50:45,408 : Test time 19h 34m 50s Epoch 138 TEST FINISH Avg dis: 0.05553613918954912
+
+2022-01-03 18:55:53,641 : Test time 20h 39m 58s, Testing started
+2022-01-03 18:56:49,947 : Test time 20h 40m 54s Epoch 139 TEST FINISH Avg dis: 0.05567436400361313
+
+2022-01-03 20:02:06,758 : Test time 21h 46m 11s, Testing started
+2022-01-03 20:03:03,668 : Test time 21h 47m 08s Epoch 140 TEST FINISH Avg dis: 0.055348772987782846
+
+2022-01-03 21:09:17,784 : Test time 22h 53m 22s, Testing started
+2022-01-03 21:10:15,490 : Test time 22h 54m 20s Epoch 141 TEST FINISH Avg dis: 0.05562234003453812
+
+2022-01-03 22:16:29,082 : Test time 00h 00m 33s, Testing started
+2022-01-03 22:17:27,356 : Test time 00h 01m 32s Epoch 142 TEST FINISH Avg dis: 0.05491012021958722
+
+2022-01-03 23:23:31,658 : Test time 01h 07m 36s, Testing started
+2022-01-03 23:24:28,975 : Test time 01h 08m 33s Epoch 143 TEST FINISH Avg dis: 0.054808225271563905
+
+2022-01-04 00:30:51,816 : Test time 02h 14m 56s, Testing started
+2022-01-04 00:31:50,125 : Test time 02h 15m 54s Epoch 144 TEST FINISH Avg dis: 0.055133922652778576
+
+2022-01-04 01:37:49,189 : Test time 03h 21m 53s, Testing started
+2022-01-04 01:38:46,105 : Test time 03h 22m 50s Epoch 145 TEST FINISH Avg dis: 0.05571415860283568
+
+2022-01-04 02:44:28,307 : Test time 04h 28m 33s, Testing started
+2022-01-04 02:45:25,792 : Test time 04h 29m 30s Epoch 146 TEST FINISH Avg dis: 0.05534647872296312
+
+2022-01-04 03:51:38,658 : Test time 05h 35m 43s, Testing started
+2022-01-04 03:52:36,236 : Test time 05h 36m 41s Epoch 147 TEST FINISH Avg dis: 0.05575846195900226
+
+2022-01-04 04:58:37,163 : Test time 06h 42m 41s, Testing started
+2022-01-04 04:59:33,455 : Test time 06h 43m 38s Epoch 148 TEST FINISH Avg dis: 0.055827842317951286
+
+2022-01-04 06:05:25,891 : Test time 07h 49m 30s, Testing started
+2022-01-04 06:06:23,105 : Test time 07h 50m 27s Epoch 149 TEST FINISH Avg dis: 0.05485589770780349
+
+2022-01-04 07:12:46,522 : Test time 08h 56m 51s, Testing started
+2022-01-04 07:13:44,593 : Test time 08h 57m 49s Epoch 150 TEST FINISH Avg dis: 0.05489351333283424
+
+2022-01-04 08:19:46,927 : Test time 10h 03m 51s, Testing started
+2022-01-04 08:20:44,548 : Test time 10h 04m 49s Epoch 151 TEST FINISH Avg dis: 0.05501140752549431
+
+2022-01-04 09:27:04,726 : Test time 11h 11m 09s, Testing started
+2022-01-04 09:28:01,704 : Test time 11h 12m 06s Epoch 152 TEST FINISH Avg dis: 0.05543566099884519
+
+2022-01-04 10:34:11,578 : Test time 12h 18m 16s, Testing started
+2022-01-04 10:35:09,202 : Test time 12h 19m 13s Epoch 153 TEST FINISH Avg dis: 0.0544485410893569
+
+2022-01-04 11:40:59,587 : Test time 13h 25m 04s, Testing started
+2022-01-04 11:41:56,654 : Test time 13h 26m 01s Epoch 154 TEST FINISH Avg dis: 0.054569506694619754
+
+2022-01-04 12:48:05,233 : Test time 14h 32m 10s, Testing started
+2022-01-04 12:49:02,864 : Test time 14h 33m 07s Epoch 155 TEST FINISH Avg dis: 0.05567102745619951
+
+2022-01-04 13:55:06,726 : Test time 15h 39m 11s, Testing started
+2022-01-04 13:56:05,016 : Test time 15h 40m 09s Epoch 156 TEST FINISH Avg dis: 0.05541785235269642
+
+2022-01-04 15:02:20,066 : Test time 16h 46m 24s, Testing started
+2022-01-04 15:03:17,699 : Test time 16h 47m 22s Epoch 157 TEST FINISH Avg dis: 0.05474570215313622
+
+2022-01-04 16:09:33,347 : Test time 17h 53m 38s, Testing started
+2022-01-04 16:10:31,495 : Test time 17h 54m 36s Epoch 158 TEST FINISH Avg dis: 0.05453478908823256
+
+2022-01-04 17:16:44,631 : Test time 19h 00m 49s, Testing started
+2022-01-04 17:17:42,987 : Test time 19h 01m 47s Epoch 159 TEST FINISH Avg dis: 0.055043454468539504
+
+2022-01-04 18:23:54,261 : Test time 20h 07m 59s, Testing started
+2022-01-04 18:24:51,742 : Test time 20h 08m 56s Epoch 160 TEST FINISH Avg dis: 0.054625887192782434
+
+2022-01-04 19:31:04,464 : Test time 21h 15m 09s, Testing started
+2022-01-04 19:32:01,887 : Test time 21h 16m 06s Epoch 161 TEST FINISH Avg dis: 0.054567004439934175
+
+2022-01-04 20:38:01,435 : Test time 22h 22m 06s, Testing started
+2022-01-04 20:38:58,629 : Test time 22h 23m 03s Epoch 162 TEST FINISH Avg dis: 0.05463904143825914
+
+2022-01-04 21:45:23,316 : Test time 23h 29m 28s, Testing started
+2022-01-04 21:46:21,497 : Test time 23h 30m 26s Epoch 163 TEST FINISH Avg dis: 0.05562387827615243
+
+2022-01-04 22:52:41,959 : Test time 00h 36m 46s, Testing started
+2022-01-04 22:53:39,689 : Test time 00h 37m 44s Epoch 164 TEST FINISH Avg dis: 0.055214791150867755
+
+2022-01-05 00:00:25,060 : Test time 01h 44m 29s, Testing started
+2022-01-05 00:01:23,954 : Test time 01h 45m 28s Epoch 165 TEST FINISH Avg dis: 0.054431804119896045
+
+2022-01-05 01:08:12,090 : Test time 02h 52m 16s, Testing started
+2022-01-05 01:09:09,658 : Test time 02h 53m 14s Epoch 166 TEST FINISH Avg dis: 0.05558186155242288
+
+2022-01-05 02:15:34,239 : Test time 03h 59m 39s, Testing started
+2022-01-05 02:16:31,440 : Test time 04h 00m 36s Epoch 167 TEST FINISH Avg dis: 0.05526010451768959
+
+2022-01-05 03:22:50,934 : Test time 05h 06m 55s, Testing started
+2022-01-05 03:23:47,850 : Test time 05h 07m 52s Epoch 168 TEST FINISH Avg dis: 0.05450671501895669
+
+2022-01-05 04:30:23,326 : Test time 06h 14m 28s, Testing started
+2022-01-05 04:31:22,812 : Test time 06h 15m 27s Epoch 169 TEST FINISH Avg dis: 0.05527148383629063
+
+2022-01-05 05:37:21,305 : Test time 07h 21m 26s, Testing started
+2022-01-05 05:38:18,215 : Test time 07h 22m 22s Epoch 170 TEST FINISH Avg dis: 0.05463873058063339
+

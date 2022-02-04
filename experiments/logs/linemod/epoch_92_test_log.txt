@@ -1,0 +1,2 @@
+2022-01-01 09:19:16,039 : Test time 13h 54m 23s, Testing started
+2022-01-01 09:19:49,325 : Test time 13h 54m 56s Epoch 92 TEST FINISH Avg dis: 0.06478987930891267

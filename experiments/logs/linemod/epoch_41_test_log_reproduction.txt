@@ -1,0 +1,2 @@
+2022-01-21 14:14:11,459 : Test time 00h 21m 07s, Testing started
+2022-01-21 14:15:14,392 : Test time 00h 22m 10s Epoch 41 TEST FINISH Avg dis: 0.016270078179763652

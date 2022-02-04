@@ -1,0 +1,2 @@
+2021-12-30 20:47:48,041 : Test time 01h 22m 55s, Testing started
+2021-12-30 20:48:32,545 : Test time 01h 23m 40s Epoch 31 TEST FINISH Avg dis: 0.10672594310043126
